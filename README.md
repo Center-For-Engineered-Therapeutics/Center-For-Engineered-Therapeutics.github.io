@@ -54,9 +54,7 @@ Copy this piece of code [here](https://github.com/Center-For-Engineered-Therapeu
 
 The list of all the publications are under `publications.html` file. The steps to create, update or delete publications is similar to the steps performed above. 
 
-<img title="" src="/Users/ronald/Desktop/work/sengupta/Center-For-Engineered-Therapeutics.github.io/images/pub_example.png" alt="" width="682">
-
-
+![](images/pub_example.png)
 
 Copy the above piece of code [here](https://github.com/Center-For-Engineered-Therapeutics/Center-For-Engineered-Therapeutics.github.io/blob/6ccefb27c4703e30c6d13c3bbfd4ae7a73af1fbc/publications.html#L2797) with the following changes:
 
