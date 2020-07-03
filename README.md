@@ -30,7 +30,7 @@ Now, let us look at the lines of code that deals with the information of PhD Stu
 
 ![](images/code_example.png)
 
-Copy this piece of code [here](https://github.com/Center-For-Engineered-Therapeutics/Center-For-Engineered-Therapeutics.github.io/blob/6ccefb27c4703e30c6d13c3bbfd4ae7a73af1fbc/phd_students.html#L256) (add more members below the last member `</div>` tag) with the following changes:
+Copy the above piece of code [here](https://github.com/Center-For-Engineered-Therapeutics/Center-For-Engineered-Therapeutics.github.io/blob/6ccefb27c4703e30c6d13c3bbfd4ae7a73af1fbc/phd_students.html#L256) (add more members below the last member `</div>` tag) with the following changes:
 
 - To add a new member
   
