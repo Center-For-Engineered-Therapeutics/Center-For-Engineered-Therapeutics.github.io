@@ -66,12 +66,12 @@ Copy the above piece of code [here](https://github.com/Center-For-Engineered-The
   
   - Remove the entire `<td>` tag if the link is not available. 
     
-    - To edit a member info
+- To edit a member info
       
-      - Change the information under the above mentioned tags.
+  - Change the information under the above mentioned tags.
     
-    - To delete the member info
-      
-      - Delete the entire `&lt;div&gt;` tag shown in the image above.
+- To delete the member info
+    
+  - Delete the entire `&lt;div&gt;` tag shown in the image above.
 
 
