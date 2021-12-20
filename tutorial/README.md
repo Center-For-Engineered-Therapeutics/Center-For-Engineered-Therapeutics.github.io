@@ -74,4 +74,8 @@ Copy the above piece of code [here](https://github.com/Center-For-Engineered-The
     
   - Delete the entire `&lt;div&gt;` tag shown in the image above.
 
+## Adding new member pics 
+
+The aspect ratio is 1:1.125 and the site to edit pics: https://croppola.com/
+
 
